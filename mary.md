@@ -1,5 +1,5 @@
 # Mary Had a Little Lamb
-Mary had a little lamb, little lamb,little lamb
+Mary had a little lamb, little lamb, little lamb
 Mary had a little lamb Whose fleece was white as snow.
 And everywhere that Mary went Mary went, Mary went,
 Everywhere that Mary went
